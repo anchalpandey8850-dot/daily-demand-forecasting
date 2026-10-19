@@ -2,7 +2,7 @@
 import requests
 import streamlit as st
 
-API_URL = "https://YOUR-RENDER-URL.onrender.com/predict"
+API_URL =https://daily-demand-forecasting-1.onrender.com
 
 st.set_page_config(
     page_title="Daily Demand Forecasting",
